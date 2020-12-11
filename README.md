@@ -1,4 +1,4 @@
-Bitcore Library
+rhombus-bitcore-lib
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-lib.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-lib)
@@ -9,16 +9,16 @@ A pure and powerful JavaScript Bitcoin library.
 
 ## Principles
 
-Bitcoin is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the Bitcoin network allows for highly resilient bitcoin infrastructure, and the developer community needs reliable, open-source tools to implement bitcoin apps and services.
+Rhombus is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the Rhombus network allows for highly resilient Rhombus infrastructure, and the developer community needs reliable, open-source tools to implement Rhombus apps and services.
 
 ## Get Started
 
 ```
-npm install bitcore-lib
+npm install rhombus-bitcore-lib
 ```
 
 ```
-bower install bitcore-lib
+bower install rhombus-bitcore-lib
 ```
 
 ## Documentation
