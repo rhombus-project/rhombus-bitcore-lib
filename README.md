@@ -76,7 +76,7 @@ To verify signatures, use the following PGP keys:
 
 ```sh
 git clone https://github.com/rhombus/rhombus-bitcore-lib
-cd bitcore-lib
+cd rhombus-bitcore-lib
 npm install
 ```
 
